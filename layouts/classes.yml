@@ -1,0 +1,53 @@
+# layout for class cards
+# based loosely on the default economy template
+
+name:
+  x: 90
+  y: 90
+  width: 635
+  height: 75
+  align: center
+
+dice_icon:
+    x: 90
+    y: 160
+    width: 75
+    height: 75
+    file: img/rolling-dices.svg
+
+starting_hand:
+  x: 175
+  y: 160
+  width: 300
+  height: 75
+  align: left
+
+art:
+  x: 175
+  y: 250
+  width: 475
+  height: 400
+
+ability:
+  x: 90
+  y: 675
+  width: 635
+  height: 400
+  font_size: 8
+  align: left
+
+# The "cut line", without rounded corners
+cut:
+  x: 37.5
+  y: 37.5
+  width: 750
+  height: 1050
+
+# The "safe zone" as defined by TheGameCrafter poker cards
+safe:
+  x: 75
+  y: 75
+  width: 675
+  height: 975
+  radius: 16
+  dash: 3 3

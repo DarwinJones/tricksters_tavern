@@ -1,0 +1,16 @@
+name,dice,infinite_ability,oneshot_ability,icon_url,Notes
+Ranger,5d6,"Bullseye: When it is your turn, you can call ""Bullseye"". All players reveal their dice. If the bet is exactly correct, you gain one d6  (Then discard dice until you have a maximum of 6). If not, lose one die. The bidder does not lose a die either way",,lorc/high-shot,
+Bounty Hunter,4d4,"Collect Bounty: You may challenge any bet regardless of turn order. If you win your challenge, take the die lost by the loser (Then discard dice until you have a maximum of 6)",,skoll/bullseye,
+Thief,4d4,"Alibi: If someone challenges your bet and they lose, take the die lost by the challenger (Then discard dice until you have a maximum of 6)",,delapouite/robin-hood-hat,
+Alchemist,3d8,,"Transmute: After rolls are revealed, you may choose any number of dice you rolled and flip them to their opposite side",lorc/fizzing-flask,
+Cleric,3d8,,"Hand of Fate: After rolls are revealed, you may roll an additional 2d8",delapouite/pope-crown,
+Tinkerer,5d6,"Tinker: After rolling, you may choose any number of your dice and reroll them. These rerolled dice are visible to other players",,lorc/clockwork,This is the oppposite of one of the established reroll rules. I'm curious how it turns out
+Blacksmith,3d4 + 2d2,"Upgrade: When you win a round, you may upgrade one of your dice by 1 level",,lorc/anvil-impact,(d2 -> d4 -> d6 -> d8 -> d10 -> d12 -> d20)
+Goblin,7d2,"Cheat: At the start of the game, choose a value between two and six. Heads are treated as this value for the rest of the game.",,caro-asercion/goblin,"Most likely to be underpowered, though that really depends on how d2 are handled"
+Dragon,2d20,"Hardened Scales: If you are to lose a die, instead downgrade one of your die by 2 levels. If a die would be reduces to less than a d6, discard it.",,delapouite/spiked-dragon-head,Yeah really not sure about this one. Very high variance
+Speculator,1d8 + 1d6,"Invest: Whenever a bet is challenged, you may bet one of your dice on the outcome. If you are correct, then you may gain 1d2 or upgrade one of your dice by one size. If you are wrong, lose a die",,delapouite/receive-money,
+Werewolf,4d6,Wild Nature: Ones you roll count as any value,"Wild Shape: For one round, gain 2d6",lorc/werewolf,
+Escapist,5d6,,Artful Dodge: Skip your turn ,delapouite/exit-door,
+Galadiator,5d6,"On fire: When you win a round, you start the next round",,delapouite/coliseum,
+Inquisitor,4d6,,"Interogate: The previous better must make another, higher bet",lorc/templar-eye,
+Soothsayer,4d6,"Divinate: Whenever it is your turn, the previous bettor reveals one of their dice to you. Only activate this if there are more than 2 players at the table",,lorc/crystal-ball,

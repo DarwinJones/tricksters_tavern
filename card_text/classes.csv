@@ -1,0 +1,21 @@
+name,dice,ability,icon_url
+Ranger,5d6,"Bullseye: When it is your turn, you can call ""Bullseye"". All players reveal their dice. If the bet is exactly correct, you gain one d6 (Then discard dice until you have a maximum of 6). If not, lose one die. The bettor does not lose a die either way",delapouite/archer
+Bounty Hunter,4d4,"Collect Bounty: You may challenge any bet regardless of turn order. If you win your challenge, take the die lost by the loser (Then discard dice until you have a maximum of 6)",delapouite/human-target
+Thief,4d4,"Alibi: If someone challenges your bet and they lose, take the die lost by the challenger (Then discard dice until you have a maximum of 6)",delapouite/robber
+Alchemist,3d10,"Transmute: Once per game, after rolls are revealed you may choose any number of dice you rolled and flip them to their opposite side.",lorc/fizzing-flask
+Cleric,3d8,"Hand of Fate: Once per game, After rolls are revealed, you may roll an additional 2d8",lorc/holy-grail
+Tinkerer,5d6,"Tinker: After rolling but before betting, you may choose any number of your dice and reroll them. Your rerolled dice are revealed.",lorc/clockwork
+Blacksmith,3d4 + 2d2,"Upgrade: When you win a round, you may upgrade one of your dice by 1 level",lorc/anvil-impact
+Goblin,7d2,"Cheat: At the start of the game, choose a value between two and six. Heads you roll are treated as this value for the rest of the game.
+Weak Willed: When you lose a round, lose 2 dice instead of 1.",goblin
+Dragon,2d20,"Hardened Scales: If you would lose a die, instead downgrade one of your dice by 2 levels. If a die would become smaller than a d6, you lose it.",delapouite/spiked-dragon-head
+Speculator,1d8 + 1d6,"Invest: Whenever a bet is challenged, you may bet one of your dice on the outcome. If you are correct, then you may gain 1d2 or upgrade one of your dice by one size. If you are wrong, lose a die",delapouite/receive-money
+Werewolf,4d6,"Wild Nature: Ones you roll count as any value 
+Wild Shape: Once per game, before you roll gain 2d6 for 1 round",lorc/werewolf
+Escapist,5d6,"Artful Dodge: Once per game, skip your turn ",delapouite/exit-door
+Galadiator,5d6,"On fire: When you win a round, you start the next round",delapouite/coliseum
+Inquisitor,4d6,"Interogate: Once per game, force the previous bettor to make another, higher bet",lorc/templar-eye
+Soothsayer,4d6,"Divinate: Whenever it is your turn, the previous bettor reveals one of their dice to you. Only activate this if there are more than 2 players at the table",lorc/crystal-ball
+Scrapper,5d6,"Rummage: After rolling but before betting, you may choose any number of your dice and reroll them. The dice you did not reroll are revealed",delapouite/raccoon-head
+Mastermind,2d10 + 1d4,"All According to Plan: If someone challenges your bet and it is exactly correct, every other player loses 1 die. Once per game you may take a die lost to this ability",lorc/brain
+Doppelganger,2d12 + 2d6,Seeing Double: each die you roll is treated as 2 dice with half the value (rounded down). [1] is counted normally.,lorc/duality

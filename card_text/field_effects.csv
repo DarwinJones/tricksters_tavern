@@ -1,0 +1,28 @@
+Name,Effect,Notes
+Do-si-do,All Players partner up (with a person to their left or right). Partners swap places at the table. Ignore if there are only 2 players. Players without partners stay in place,
+Bolster,All dice values are treated as one higher (up to a max of 6),
+Winnow,All dice values are treated as one lower (down to a minimum of 1),
+Reverse,Turn order goes counter-clockwise,
+Spirit of Surfeit ,All dice in the discard pile are rerolled at the begining of each round. These dice are visible to all players and count towards dice counts.,
+Spirit of {something??},All dice in the discard pile are rerolled at the begining of each round and covered. These dice are revealed at the end of the round and count towards dice counts.,
+Wild magics,"roll 1d6, that value is counted as a dice of any value",Maybe roll a second d6 for duration
+Evening Star,All odd dice are rounded up,
+Odds and Ends,All even dice are rounded down,
+Bounty Board,"The winner of the next round gains 1d8, then discard this card",
+Gloves are off,"The loser of the next round loses an additional dice, then discard this card",
+Visit Blacksmith,The winner of the next round upgrades one of their dice by one level,Could be permanent or one use?
+Acidic slime,The loser of the next round downgrades one of their dice by one level,Could be permanent or one use?
+Cleave,"When a challenge is made, if the bet is exactly correct, all players except the better lose one die. A player cannot lose their last die this way unless they were the challenger",
+Free for all ,Anyone can challenge a bet (The people closest in turn order get priority if simultanous challenges are made).,
+Reposition,The winner and loser of the next round swap places,
+Life Drain,"When a challenge is made, if the bet is exactly correct, the bidder takes the dice lost by the loser",
+reveal and reroll,"After a player makes a bet but before the next player's turn, they may reveal any number of their dice and reroll the rest.",
+Escape Hatch,"The player with the fewest dice can repeat the previous bet without raising it, then discard this card. If there is a tie of players with the lowest dice count, the tie goes to the player whose total dice sides is least. If there is a tie again, it goes to all tied players",
+Null field,"All wild values are counted as their actual value. If the actual value is higher than 6, it is counted as its value minus 6",
+Seeing double,"Players must make 2 bets, each for different values. At the end of the round, each bet is judged for its accuracy seperately",
+douple jeopardy,"Players must make 2 bets, each for different values. At the end of the round, both bets are judged together. If one is wrong, the loser downgrades one of their dice one level rather than discard one dice.",
+Conspiracy,"Before each player bets for the first time, the player to the bidders left must show half of their dice to the bidder (rounded down)",
+Ramp up ,"Bids must increase by at least 2 between the value and the amount (example: 2 fours must become atleast 4 fours, 2 sixes, or 3 fives).",
+what game is this?,"After rolling, players may choose any number of dice and reroll them. Repeat this 2 more times then everyone reveals their dice. Using a poker system, the winner gains 1d6","This is a joke, but maybe could be tweaked to be good."
+Opposite Day,"For one round, players must bet on the number of pairs they don't expect to be at the table and would lose if there are atleast that many dice. The maximum amount for a bid is the number of total dice left at the table",
+What a Dillema,"Each player chooses heads or tails and hides their choice under their cup. Then, everyone reveals their choice: If everyone chose heads, everyone gains 1d4; if there is a mix of heads and tails, tails gain 1d6 and head lose one die; if everyone chose tails, everyone loses one die and downgrades one die by one level",
