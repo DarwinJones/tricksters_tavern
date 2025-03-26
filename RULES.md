@@ -53,6 +53,10 @@ This game uses many dice outside of the standard d6. Here is how dice are counte
 
 *\* except for a d20 where rolling a [1] is not counted as any value.*
 
+## Max Hand size
+
+At the end of a round, players with more than 6 dice must lose dice until they have 6.
+
 ## Upgrading/Downgrading Dice
 
 **Die sizes (smalllest to largest):** d2 -> d4 -> d6 -> d8 -> d10 -> d12 -> d20
@@ -65,7 +69,7 @@ If a downgrade would cause a die to be smaller than a d2, then its owner loses i
 
 ## Wildcards
 
-Some rules will treat a certain face value as a wildcard (written as "*"). A wildcard is treated as if it has every score value.
+Some rules will treat a certain face value as a wildcard (written as "\*"). A wildcard is treated as if it has every score value.
 
 # Classes
 

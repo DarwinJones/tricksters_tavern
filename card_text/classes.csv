@@ -1,7 +1,7 @@
 name,dice,ability,icon_url
-Ranger,5d6,"Bullseye: When it is your turn, you can call ""Bullseye"". All players reveal their dice. If the bet is exactly correct, you gain one d6 (Then discard dice until you have a maximum of 6). If not, lose one die. The bettor does not lose a die either way",delapouite/archer
-Bounty Hunter,4d4,"Collect Bounty: You may challenge any bet regardless of turn order. If you win your challenge, take the die lost by the loser (Then discard dice until you have a maximum of 6)",delapouite/human-target
-Thief,4d4,"Alibi: If someone challenges your bet and they lose, take the die lost by the challenger (Then discard dice until you have a maximum of 6)",delapouite/robber
+Ranger,5d6,"Bullseye: You can call ""Bullseye"" in response to a bet. All players reveal their dice. If the bet is exactly correct, you gain one d6. If not, lose one die. The bettor does not lose a die either way.",delapouite/archer
+Bounty Hunter,4d4,"Collect Bounty: You may challenge any bet regardless of turn order. If you challenge a bet and win, upgrade one of your dice. Once per game, you may instead choose to gain the die lost by the bettor.",delapouite/human-target
+Thief,4d4,"Alibi: If someone challenges your bet and loses, upgrade one of your dice. Once per game, you may instead choose to gain the die lost by the challenger.",delapouite/robber
 Alchemist,3d10,"Transmute: Once per game, after rolls are revealed you may choose any number of dice you own and flip them to their opposite side.",lorc/fizzing-flask
 Cleric,3d8,"Seventh Heaven: Sevens you roll count as any value.
 Hand of Fate: Once per game, After rolls are revealed, you may roll an additional 2d8",lorc/holy-grail
