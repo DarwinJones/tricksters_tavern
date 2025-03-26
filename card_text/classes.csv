@@ -12,8 +12,8 @@ Dragon,2d20,"Hardened Scales: If you would lose a die, instead downgrade one of 
 Speculator,1d8 + 1d6,"Invest: Whenever a bet is challenged, you may bet one of your dice on the outcome. If you are correct, then you may gain 1d2 or upgrade one of your dice by one size. If you are wrong, lose a die",delapouite/receive-money
 Werewolf,4d6,"Wild Nature: Ones you roll count as any value 
 Wild Shape: Once per game, before you roll gain 2d6 for 1 round",lorc/werewolf
-Escapist,5d6,"Artful Dodge: Once per game, skip your turn ",delapouite/exit-door
-Galadiator,5d6,"On fire: When you win a round, you start the next round",delapouite/coliseum
+Galadiator,5d6,"On Fire: When you win a round, you make the first bet of the next round.
+Artful Dodge: Once per game, skip your turn.",delapouite/coliseum
 Inquisitor,4d6,"Interogate: Once per game, force the previous bettor to make another, higher bet",lorc/templar-eye
 Soothsayer,4d6,"Divinate: Whenever it is your turn, the previous bettor reveals one of their dice to you. Only activate this if there are more than 2 players at the table",lorc/crystal-ball
 Scrapper,5d6,"Rummage: After rolling but before betting, you may choose any number of your dice and reroll them. The dice you did not reroll are revealed",delapouite/raccoon-head
