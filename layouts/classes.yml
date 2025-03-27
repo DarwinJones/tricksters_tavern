@@ -1,23 +1,30 @@
 # layout for class cards
 # based loosely on the default economy template
 
+text:
+  font: 'Caslon Antique,'
+
 name:
+  extends: text
+  font_size: 20
   x: 90
-  y: 90
+  y: 80
   width: 635
-  height: 75
+  height: 100
   align: center
 
 dice_icon:
     x: 90
-    y: 160
+    y: 170
     width: 75
     height: 75
     file: img/rolling-dices.svg
 
 starting_hand:
+  extends: text
+  font_size: 16
   x: 175
-  y: 160
+  y: 170
   width: 300
   height: 75
   align: left
@@ -29,11 +36,11 @@ art:
   height: 400
 
 ability:
+  extends: text
   x: 90
   y: 675
   width: 635
   height: 400
-  font_size: 8
   align: left
 
 # The "cut line", without rounded corners
@@ -49,5 +56,6 @@ safe:
   y: 75
   width: 675
   height: 975
+  color: grey
   radius: 16
   dash: 3 3
