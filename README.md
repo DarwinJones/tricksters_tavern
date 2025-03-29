@@ -39,7 +39,7 @@ Players take on the roles of adventurers with different starting dice sets and a
 
 | Ranger | Blacksmith | Dragon |
 |---|---|---|
-| ![ranger](_output/card_00.png) | ![blacksmith](_output/card_06.png) | ![dragon](_output/card_08.png) |
+| ![ranger](_output/class_png/Ranger.png) | ![blacksmith](_output/class_png/Blacksmith.png) | ![dragon](_output/class_png/Dragon.png) |
 
 ### Power Cards [WIP]
 
