@@ -1,7 +1,7 @@
 require 'squib'
 
-task default: [:deck]
+task default: [:all]
 
-task :deck do
-  load 'deck.rb'
+task :all do
+  load 'class.rb'
 end
